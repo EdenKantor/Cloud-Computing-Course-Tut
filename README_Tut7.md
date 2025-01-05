@@ -3,16 +3,6 @@
 
 A modular system for document search and management designed to run on Google Colab.
 
-## Installation on Google Colab
-
-1. Open a new Google Colab notebook
-2. Copy the code from the following files into separate cells:
-   - `ranking_service.py`
-   - `index_service.py`
-   - `query_service.py`
-   - `result_service.py`
-   - `main.py`
-
 ## Architecture
 
 The system consists of four main services:
